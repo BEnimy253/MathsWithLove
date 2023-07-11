@@ -65,10 +65,3 @@ assert n > 0, "Your input number (n) is less than or equal 0."
 
 print("-----< Pascal Triangle >-----")
 pascalTriangle(n)
-
-
-# In[ ]:
-
-
-
-
